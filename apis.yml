@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html
 common:
+  - type: DomainSecurity
+    url: security/bclaws-domain-security.yml
   - type: Website
     url: https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html
   - type: PublicAPIsListing
