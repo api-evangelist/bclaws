@@ -39,7 +39,6 @@ apis:
   - name: BCLaws
     description: "Access to the laws of British Columbia"
     humanURL: https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html
-    baseURL: https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html
     tags:
       - Government
     properties:
